@@ -1,0 +1,6 @@
+name: PlayerTransform
+version: '${project.version}'
+main: com.renyuansurvival.playertransform.PlayerTransform
+api-version: 1.17
+authors: [ RENaa_FD ]
+depend: [ floodgate , OpenInv , Vault ]
